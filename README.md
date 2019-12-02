@@ -42,6 +42,7 @@ Arnaldo Victor Yamawaki Alves https://github.com/Yamwaki-kun
 Geovana Simão Sousa https://github.com/geovanasimaosousa
 <br>
 Jandira Pires https://github.com/piresjandira?tab=repositories
+<br>
 Pedro Henrique Salomão Ventura
 <br>
 Vinícius Villela https://github.com/Villela123
