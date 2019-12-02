@@ -41,7 +41,7 @@ Arnaldo Victor Yamawaki Alves
 Geovana Simão Sousa https://github.com/geovanasimaosousa
 Jandira Pires https://github.com/piresjandira?tab=repositories
 Pedro Henrique Salomão Ventura
-Vinícius Villela 
+Vinícius Villela https://github.com/Villela123
 # Licença
 Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE.md para obter detalhes
 
