@@ -37,11 +37,15 @@ Bootstrap - Framework
 # Versionamento
 Usamos o GitHub para controle de versão. 
 # Autores
-Arnaldo Victor Yamawaki Alves
+Arnaldo Victor Yamawaki Alves https://github.com/Yamwaki-kun
+<br>
 Geovana Simão Sousa https://github.com/geovanasimaosousa
+<br>
 Jandira Pires https://github.com/piresjandira?tab=repositories
 Pedro Henrique Salomão Ventura
+<br>
 Vinícius Villela https://github.com/Villela123
+<br>
 # Licença
 Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE.md para obter detalhes
 
