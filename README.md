@@ -27,10 +27,13 @@ Apos configurar você deverá tentar abrir, o php aponta o erro exatamente onde 
 
 # Construído com
 PHP - A estrutura da web 
+<br>
 Java – A estrutura desktop
+<br>
 Mysql – Banco de dados
+<br>
 Bootstrap - Framework
-
+<br>
 # Versionamento
 Usamos o GitHub para controle de versão. 
 # Autores
