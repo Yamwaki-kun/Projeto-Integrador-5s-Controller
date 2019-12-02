@@ -15,11 +15,16 @@ Edite os arquivos config, para conectar ao seu banco
 ![1](https://user-images.githubusercontent.com/43183787/69993793-4db97c00-152b-11ea-9575-4d9f39132d5c.PNG)
 
 Edite os arquivos com _ que são os inserts
+![2](https://user-images.githubusercontent.com/43183787/69993850-67f35a00-152b-11ea-85e2-215dfe1d372d.PNG)
 
 Edite os arquivos que possuem selects do banco
+![3](https://user-images.githubusercontent.com/43183787/69993867-70e42b80-152b-11ea-8710-089179f04ca4.PNG)
 
 # Executando os testes
 Apos configurar você deverá tentar abrir, o php aponta o erro exatamente onde ele está
+
+![4](https://user-images.githubusercontent.com/43183787/69993945-95d89e80-152b-11ea-9b83-8c4eb879ff57.png)
+
 # Construído com
 PHP - A estrutura da web 
 Java – A estrutura desktop
